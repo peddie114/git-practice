@@ -1,5 +1,3 @@
-# 計算兩個向量的 cosine similarity
-
 import math
 
 
